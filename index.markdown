@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<title>Mills Timeline</title>
+<h1>Mills College Timeline</h1>
 
 <h2>MCNU Land Acknowledgement</h2>
 <p>Oakland and
